@@ -1,2 +1,4 @@
-# intro-to-python
-Introduction to Python
+# Introduction to Python
+
+The is a basic introductory course in programming with Python.
+
